@@ -1,0 +1,20 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html",
+  "/account": "pages/account.html",
+  "/": "pages/index.html",
+  "/login": "pages/login.html",
+  "/orders": "pages/orders.html",
+  "/product-update": "pages/product-update.html",
+  "/product-add": "pages/product-add.html",
+  "/products": "pages/products.html",
+  "/register": "pages/register.html",
+  "/settings": "pages/settings.html",
+  "/sign-in/confirm": "pages/sign-in/confirm.html",
+  "/sign-in": "pages/sign-in.html",
+  "/users-add": "pages/users-add.html",
+  "/users-update": "pages/users-update.html",
+  "/users": "pages/users.html"
+}
